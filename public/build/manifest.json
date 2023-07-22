@@ -1,0 +1,408 @@
+{
+  "resources/fonts/MTSCompact-Black.woff2": {
+    "file": "assets/MTSCompact-Black-8244c25a.woff2",
+    "src": "resources/fonts/MTSCompact-Black.woff2"
+  },
+  "resources/fonts/MTSCompact-Bold.woff2": {
+    "file": "assets/MTSCompact-Bold-54a3abfc.woff2",
+    "src": "resources/fonts/MTSCompact-Bold.woff2"
+  },
+  "resources/fonts/MTSCompact-Medium.woff2": {
+    "file": "assets/MTSCompact-Medium-bdec50e6.woff2",
+    "src": "resources/fonts/MTSCompact-Medium.woff2"
+  },
+  "resources/fonts/MTSCompact-Regular.woff2": {
+    "file": "assets/MTSCompact-Regular-c66fe257.woff2",
+    "src": "resources/fonts/MTSCompact-Regular.woff2"
+  },
+  "resources/fonts/MTSExtended-Bold.woff2": {
+    "file": "assets/MTSExtended-Bold-8e12f4be.woff2",
+    "src": "resources/fonts/MTSExtended-Bold.woff2"
+  },
+  "resources/fonts/MTSExtended-Medium.woff2": {
+    "file": "assets/MTSExtended-Medium-f3f1518d.woff2",
+    "src": "resources/fonts/MTSExtended-Medium.woff2"
+  },
+  "resources/fonts/MTSExtended-Regular.woff2": {
+    "file": "assets/MTSExtended-Regular-7da81b87.woff2",
+    "src": "resources/fonts/MTSExtended-Regular.woff2"
+  },
+  "resources/fonts/MTSText-Black.woff2": {
+    "file": "assets/MTSText-Black-c6a10804.woff2",
+    "src": "resources/fonts/MTSText-Black.woff2"
+  },
+  "resources/fonts/MTSText-Bold.woff2": {
+    "file": "assets/MTSText-Bold-a4db0380.woff2",
+    "src": "resources/fonts/MTSText-Bold.woff2"
+  },
+  "resources/fonts/MTSText-Medium.woff2": {
+    "file": "assets/MTSText-Medium-b73a5e34.woff2",
+    "src": "resources/fonts/MTSText-Medium.woff2"
+  },
+  "resources/fonts/MTSText-Regular.woff2": {
+    "file": "assets/MTSText-Regular-81a4ad4f.woff2",
+    "src": "resources/fonts/MTSText-Regular.woff2"
+  },
+  "resources/fonts/MTSUltraExtended-Black.woff2": {
+    "file": "assets/MTSUltraExtended-Black-9523c30d.woff2",
+    "src": "resources/fonts/MTSUltraExtended-Black.woff2"
+  },
+  "resources/fonts/MTSUltraExtended-Bold.woff2": {
+    "file": "assets/MTSUltraExtended-Bold-179f2d5d.woff2",
+    "src": "resources/fonts/MTSUltraExtended-Bold.woff2"
+  },
+  "resources/fonts/MTSUltraExtended-Light.woff2": {
+    "file": "assets/MTSUltraExtended-Light-08076856.woff2",
+    "src": "resources/fonts/MTSUltraExtended-Light.woff2"
+  },
+  "resources/fonts/MTSUltraExtended-Regular.woff2": {
+    "file": "assets/MTSUltraExtended-Regular-a9477ded.woff2",
+    "src": "resources/fonts/MTSUltraExtended-Regular.woff2"
+  },
+  "resources/fonts/MTSWide-Black.woff2": {
+    "file": "assets/MTSWide-Black-5625961e.woff2",
+    "src": "resources/fonts/MTSWide-Black.woff2"
+  },
+  "resources/fonts/MTSWide-Bold.woff2": {
+    "file": "assets/MTSWide-Bold-8bebbc34.woff2",
+    "src": "resources/fonts/MTSWide-Bold.woff2"
+  },
+  "resources/fonts/MTSWide-Light.woff2": {
+    "file": "assets/MTSWide-Light-924b58df.woff2",
+    "src": "resources/fonts/MTSWide-Light.woff2"
+  },
+  "resources/fonts/MTSWide-Medium.woff2": {
+    "file": "assets/MTSWide-Medium-d6412146.woff2",
+    "src": "resources/fonts/MTSWide-Medium.woff2"
+  },
+  "resources/fonts/MTSWide-Regular.woff2": {
+    "file": "assets/MTSWide-Regular-6c0ba1b8.woff2",
+    "src": "resources/fonts/MTSWide-Regular.woff2"
+  },
+  "resources/images/4bd196b5930b6dcc3df975e56db3e466.jpeg": {
+    "file": "assets/4bd196b5930b6dcc3df975e56db3e466-3d57fbcb.jpeg",
+    "src": "resources/images/4bd196b5930b6dcc3df975e56db3e466.jpeg"
+  },
+  "resources/images/66eecf7269a308036061cb2e5d77f1b2.jpeg": {
+    "file": "assets/66eecf7269a308036061cb2e5d77f1b2-b28ef39f.jpeg",
+    "src": "resources/images/66eecf7269a308036061cb2e5d77f1b2.jpeg"
+  },
+  "resources/images/95cc4fffbee9cbdf7ad588c7cbc60461.jpg": {
+    "file": "assets/95cc4fffbee9cbdf7ad588c7cbc60461-81c62e9a.jpg",
+    "src": "resources/images/95cc4fffbee9cbdf7ad588c7cbc60461.jpg"
+  },
+  "resources/images/a3104b2679ed27625829d608af6795c0.jpeg": {
+    "file": "assets/a3104b2679ed27625829d608af6795c0-318c45b4.jpeg",
+    "src": "resources/images/a3104b2679ed27625829d608af6795c0.jpeg"
+  },
+  "resources/images/ce86e5ef8d54f79313e683fa87c16289.jpeg": {
+    "file": "assets/ce86e5ef8d54f79313e683fa87c16289-8c17c572.jpeg",
+    "src": "resources/images/ce86e5ef8d54f79313e683fa87c16289.jpeg"
+  },
+  "resources/images/clouds.png": {
+    "file": "assets/clouds-6cd5ec66.png",
+    "src": "resources/images/clouds.png"
+  },
+  "resources/images/dabc2b2edd4adfe647c84e57b5fe73e5.jpeg": {
+    "file": "assets/dabc2b2edd4adfe647c84e57b5fe73e5-7a64fb31.jpeg",
+    "src": "resources/images/dabc2b2edd4adfe647c84e57b5fe73e5.jpeg"
+  },
+  "resources/images/e4d60906f759e82e1413db9829ee7485.jpeg": {
+    "file": "assets/e4d60906f759e82e1413db9829ee7485-e338feba.jpeg",
+    "src": "resources/images/e4d60906f759e82e1413db9829ee7485.jpeg"
+  },
+  "resources/images/girls.jpg": {
+    "file": "assets/girls-cc5041c8.jpg",
+    "src": "resources/images/girls.jpg"
+  },
+  "resources/images/group.svg": {
+    "file": "assets/group-5ccecba8.svg",
+    "src": "resources/images/group.svg"
+  },
+  "resources/images/kalini.jpg": {
+    "file": "assets/kalini-dd32520d.jpg",
+    "src": "resources/images/kalini.jpg"
+  },
+  "resources/images/kazan.jpg": {
+    "file": "assets/kazan-c3f84cb5.jpg",
+    "src": "resources/images/kazan.jpg"
+  },
+  "resources/images/ll1.svg": {
+    "file": "assets/ll1-cc52275d.svg",
+    "src": "resources/images/ll1.svg"
+  },
+  "resources/images/lr1.svg": {
+    "file": "assets/lr1-8ee46e1a.svg",
+    "src": "resources/images/lr1.svg"
+  },
+  "resources/images/mphotos.png": {
+    "file": "assets/mphotos-e680de0a.png",
+    "src": "resources/images/mphotos.png"
+  },
+  "resources/images/photos.png": {
+    "file": "assets/photos-8363427f.png",
+    "src": "resources/images/photos.png"
+  },
+  "resources/images/road1.svg": {
+    "file": "assets/road1-6e8b78d2.svg",
+    "src": "resources/images/road1.svg"
+  },
+  "resources/images/road2.svg": {
+    "file": "assets/road2-b0b0a28f.svg",
+    "src": "resources/images/road2.svg"
+  },
+  "resources/images/roadm1.svg": {
+    "file": "assets/roadm1-8aae7bfb.svg",
+    "src": "resources/images/roadm1.svg"
+  },
+  "resources/images/roadm2.svg": {
+    "file": "assets/roadm2-450848cf.svg",
+    "src": "resources/images/roadm2.svg"
+  },
+  "resources/images/roadm3.svg": {
+    "file": "assets/roadm3-91fc5ef4.svg",
+    "src": "resources/images/roadm3.svg"
+  },
+  "resources/images/routes/sbp/m0/i0/icon.svg": {
+    "file": "assets/icon-14b1b8b3.svg",
+    "src": "resources/images/routes/sbp/m2/i0/icon.svg"
+  },
+  "resources/images/routes/sbp/m0/i0/image.png": {
+    "file": "assets/image-78614a00.png",
+    "src": "resources/images/routes/sbp/m2/i0/image.png"
+  },
+  "resources/images/routes/sbp/m0/i1/icon.svg": {
+    "file": "assets/icon-20c0a6c1.svg",
+    "src": "resources/images/routes/sbp/m2/i1/icon.svg"
+  },
+  "resources/images/routes/sbp/m0/i1/image.png": {
+    "file": "assets/image-373929e6.png",
+    "src": "resources/images/routes/sbp/m2/i1/image.png"
+  },
+  "resources/images/routes/sbp/m0/i2/icon.svg": {
+    "file": "assets/icon-c8f97a7a.svg",
+    "src": "resources/images/routes/sbp/m2/i2/icon.svg"
+  },
+  "resources/images/routes/sbp/m0/i2/image.png": {
+    "file": "assets/image-51eb6ac2.png",
+    "src": "resources/images/routes/sbp/m2/i2/image.png"
+  },
+  "resources/images/routes/sbp/m1/i0/icon.svg": {
+    "file": "assets/icon-14b1b8b3.svg",
+    "src": "resources/images/routes/sbp/m2/i0/icon.svg"
+  },
+  "resources/images/routes/sbp/m1/i0/image.png": {
+    "file": "assets/image-78614a00.png",
+    "src": "resources/images/routes/sbp/m2/i0/image.png"
+  },
+  "resources/images/routes/sbp/m1/i1/icon.svg": {
+    "file": "assets/icon-20c0a6c1.svg",
+    "src": "resources/images/routes/sbp/m2/i1/icon.svg"
+  },
+  "resources/images/routes/sbp/m1/i1/image.png": {
+    "file": "assets/image-373929e6.png",
+    "src": "resources/images/routes/sbp/m2/i1/image.png"
+  },
+  "resources/images/routes/sbp/m1/i2/icon.svg": {
+    "file": "assets/icon-c8f97a7a.svg",
+    "src": "resources/images/routes/sbp/m2/i2/icon.svg"
+  },
+  "resources/images/routes/sbp/m1/i2/image.png": {
+    "file": "assets/image-51eb6ac2.png",
+    "src": "resources/images/routes/sbp/m2/i2/image.png"
+  },
+  "resources/images/routes/sbp/m2/i0/icon.svg": {
+    "file": "assets/icon-14b1b8b3.svg",
+    "src": "resources/images/routes/sbp/m2/i0/icon.svg"
+  },
+  "resources/images/routes/sbp/m2/i0/image.png": {
+    "file": "assets/image-78614a00.png",
+    "src": "resources/images/routes/sbp/m2/i0/image.png"
+  },
+  "resources/images/routes/sbp/m2/i1/icon.svg": {
+    "file": "assets/icon-20c0a6c1.svg",
+    "src": "resources/images/routes/sbp/m2/i1/icon.svg"
+  },
+  "resources/images/routes/sbp/m2/i1/image.png": {
+    "file": "assets/image-373929e6.png",
+    "src": "resources/images/routes/sbp/m2/i1/image.png"
+  },
+  "resources/images/routes/sbp/m2/i2/icon.svg": {
+    "file": "assets/icon-c8f97a7a.svg",
+    "src": "resources/images/routes/sbp/m2/i2/icon.svg"
+  },
+  "resources/images/routes/sbp/m2/i2/image.png": {
+    "file": "assets/image-51eb6ac2.png",
+    "src": "resources/images/routes/sbp/m2/i2/image.png"
+  },
+  "resources/images/routes/sochi/m0/i0/icon.svg": {
+    "file": "assets/icon-14b1b8b3.svg",
+    "src": "resources/images/routes/sbp/m2/i0/icon.svg"
+  },
+  "resources/images/routes/sochi/m0/i0/image.png": {
+    "file": "assets/image-78614a00.png",
+    "src": "resources/images/routes/sbp/m2/i0/image.png"
+  },
+  "resources/images/routes/sochi/m0/i1/icon.svg": {
+    "file": "assets/icon-20c0a6c1.svg",
+    "src": "resources/images/routes/sbp/m2/i1/icon.svg"
+  },
+  "resources/images/routes/sochi/m0/i1/image.png": {
+    "file": "assets/image-3b77e8b4.png",
+    "src": "resources/images/routes/sochi/m0/i1/image.png"
+  },
+  "resources/images/routes/sochi/m0/i2/icon.svg": {
+    "file": "assets/icon-c8f97a7a.svg",
+    "src": "resources/images/routes/sbp/m2/i2/icon.svg"
+  },
+  "resources/images/routes/sochi/m0/i2/image.png": {
+    "file": "assets/image-51eb6ac2.png",
+    "src": "resources/images/routes/sbp/m2/i2/image.png"
+  },
+  "resources/images/routes/sochi/m1/i0/icon.svg": {
+    "file": "assets/icon-14b1b8b3.svg",
+    "src": "resources/images/routes/sbp/m2/i0/icon.svg"
+  },
+  "resources/images/routes/sochi/m1/i0/image.png": {
+    "file": "assets/image-c565420b.png",
+    "src": "resources/images/routes/sochi/m1/i0/image.png"
+  },
+  "resources/images/routes/sochi/m1/i1/icon.svg": {
+    "file": "assets/icon-1126f1e8.svg",
+    "src": "resources/images/routes/sochi/m1/i1/icon.svg"
+  },
+  "resources/images/routes/sochi/m1/i1/image.png": {
+    "file": "assets/image-93580107.png",
+    "src": "resources/images/routes/sochi/m1/i1/image.png"
+  },
+  "resources/images/routes/sochi/m1/i2/icon.svg": {
+    "file": "assets/icon-7f366871.svg",
+    "src": "resources/images/routes/sochi/m1/i2/icon.svg"
+  },
+  "resources/images/routes/sochi/m1/i2/image.png": {
+    "file": "assets/image-c8ba6c24.png",
+    "src": "resources/images/routes/sochi/m1/i2/image.png"
+  },
+  "resources/images/routes/sochi/m2/i0/icon.svg": {
+    "file": "assets/icon-14b1b8b3.svg",
+    "src": "resources/images/routes/sbp/m2/i0/icon.svg"
+  },
+  "resources/images/routes/sochi/m2/i0/image.png": {
+    "file": "assets/image-31acdf7d.png",
+    "src": "resources/images/routes/sochi/m2/i0/image.png"
+  },
+  "resources/images/routes/sochi/m2/i1/icon.svg": {
+    "file": "assets/icon-20c0a6c1.svg",
+    "src": "resources/images/routes/sbp/m2/i1/icon.svg"
+  },
+  "resources/images/routes/sochi/m2/i1/image.png": {
+    "file": "assets/image-d650c7f7.png",
+    "src": "resources/images/routes/sochi/m2/i1/image.png"
+  },
+  "resources/images/routes/sochi/m2/i2/icon.svg": {
+    "file": "assets/icon-99e9b5ec.svg",
+    "src": "resources/images/routes/sochi/m2/i2/icon.svg"
+  },
+  "resources/images/routes/sochi/m2/i2/image.png": {
+    "file": "assets/image-1299a459.png",
+    "src": "resources/images/routes/sochi/m2/i2/image.png"
+  },
+  "resources/images/sochi.jpg": {
+    "file": "assets/sochi-9cc5e59c.jpg",
+    "src": "resources/images/sochi.jpg"
+  },
+  "resources/images/spb.jpg": {
+    "file": "assets/spb-69af07bc.jpg",
+    "src": "resources/images/spb.jpg"
+  },
+  "resources/js/Pages/Home.jsx": {
+    "assets": [
+      "assets/clouds-6cd5ec66.png",
+      "assets/group-5ccecba8.svg",
+      "assets/dabc2b2edd4adfe647c84e57b5fe73e5-7a64fb31.jpeg",
+      "assets/4bd196b5930b6dcc3df975e56db3e466-3d57fbcb.jpeg",
+      "assets/e4d60906f759e82e1413db9829ee7485-e338feba.jpeg",
+      "assets/95cc4fffbee9cbdf7ad588c7cbc60461-81c62e9a.jpg",
+      "assets/a3104b2679ed27625829d608af6795c0-318c45b4.jpeg",
+      "assets/ce86e5ef8d54f79313e683fa87c16289-8c17c572.jpeg",
+      "assets/66eecf7269a308036061cb2e5d77f1b2-b28ef39f.jpeg",
+      "assets/sochi-9cc5e59c.jpg",
+      "assets/spb-69af07bc.jpg",
+      "assets/kalini-dd32520d.jpg",
+      "assets/lr1-8ee46e1a.svg",
+      "assets/ll1-cc52275d.svg",
+      "assets/kazan-c3f84cb5.jpg",
+      "assets/road1-6e8b78d2.svg",
+      "assets/roadm1-8aae7bfb.svg",
+      "assets/roadm2-450848cf.svg",
+      "assets/roadm3-91fc5ef4.svg",
+      "assets/photos-8363427f.png",
+      "assets/mphotos-e680de0a.png",
+      "assets/girls-cc5041c8.jpg",
+      "assets/icon-14b1b8b3.svg",
+      "assets/image-78614a00.png",
+      "assets/icon-20c0a6c1.svg",
+      "assets/image-3b77e8b4.png",
+      "assets/icon-c8f97a7a.svg",
+      "assets/image-51eb6ac2.png",
+      "assets/image-c565420b.png",
+      "assets/icon-1126f1e8.svg",
+      "assets/image-93580107.png",
+      "assets/icon-7f366871.svg",
+      "assets/image-c8ba6c24.png",
+      "assets/image-31acdf7d.png",
+      "assets/image-d650c7f7.png",
+      "assets/icon-99e9b5ec.svg",
+      "assets/image-1299a459.png",
+      "assets/image-373929e6.png",
+      "assets/sochi1-2bb61053.pdf"
+    ],
+    "file": "assets/Home-d0fa4b86.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Home.jsx"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-266c7020.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.jsx": {
+    "assets": [
+      "assets/MTSCompact-Regular-c66fe257.woff2",
+      "assets/MTSCompact-Medium-bdec50e6.woff2",
+      "assets/MTSCompact-Bold-54a3abfc.woff2",
+      "assets/MTSCompact-Black-8244c25a.woff2",
+      "assets/MTSExtended-Regular-7da81b87.woff2",
+      "assets/MTSExtended-Medium-f3f1518d.woff2",
+      "assets/MTSExtended-Bold-8e12f4be.woff2",
+      "assets/MTSText-Regular-81a4ad4f.woff2",
+      "assets/MTSText-Medium-b73a5e34.woff2",
+      "assets/MTSText-Bold-a4db0380.woff2",
+      "assets/MTSText-Black-c6a10804.woff2",
+      "assets/MTSUltraExtended-Light-08076856.woff2",
+      "assets/MTSUltraExtended-Regular-a9477ded.woff2",
+      "assets/MTSUltraExtended-Bold-179f2d5d.woff2",
+      "assets/MTSUltraExtended-Black-9523c30d.woff2",
+      "assets/MTSWide-Light-924b58df.woff2",
+      "assets/MTSWide-Regular-6c0ba1b8.woff2",
+      "assets/MTSWide-Medium-d6412146.woff2",
+      "assets/MTSWide-Bold-8bebbc34.woff2",
+      "assets/MTSWide-Black-5625961e.woff2"
+    ],
+    "css": [
+      "assets/app-266c7020.css"
+    ],
+    "dynamicImports": [
+      "resources/js/Pages/Home.jsx"
+    ],
+    "file": "assets/app-fcde357e.js",
+    "isEntry": true,
+    "src": "resources/js/app.jsx"
+  },
+  "resources/pdf/sochi1.pdf": {
+    "file": "assets/sochi1-2bb61053.pdf",
+    "src": "resources/pdf/sochi1.pdf"
+  }
+}
